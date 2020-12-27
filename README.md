@@ -1,3 +1,9 @@
+# Libraries used in this app
+
+- Google Firebase to host the application
+- Material UI for icons
+-
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
