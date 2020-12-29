@@ -4,7 +4,7 @@
 
 - Google Firebase to host the application
 - Material UI for icons
--
+- React Date Range
 
 # Getting Started with Create React App
 
