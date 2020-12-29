@@ -29,7 +29,7 @@ function Search() {
                 onChange={selectHandler}
             />
             <h2>
-                Number or guests
+                Number of guests
                      <PeopleIcon />
             </h2>
             <input

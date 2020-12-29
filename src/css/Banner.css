@@ -40,7 +40,7 @@
 	color: #ff7779 !important;
 }
 
-.banner__search > Button:hover {
-	background-color: #ff7779;
-	color: white;
+.banner__searchButton:hover {
+	background-color: #ff7779 !important;
+	color: white !important;
 }
