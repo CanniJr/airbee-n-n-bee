@@ -1,10 +1,13 @@
 ## Airbee n Bee
 
+Clone of Airbnb with Date range and Firebase hosting.
+
 # Libraries used in this app
 
 - Google Firebase to host the application
 - Material UI for icons
 - React Date Range
+-
 
 # Getting Started with Create React App
 
